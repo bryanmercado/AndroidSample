@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 
 /**
- * Timer class
+ * Timer class (by Jillian Deligero-Mercado)
  */
 public class Timer extends Activity implements View.OnClickListener {
 
