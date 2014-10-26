@@ -12,7 +12,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 
-
+/**
+ * Timer class
+ */
 public class Timer extends Activity implements View.OnClickListener {
 
     Button addButton;
